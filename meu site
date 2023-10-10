@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu site</title>
+    
+</head>
+<body>
+
+    <h1 style="color:darkred ; text-align: center; "> Bem Vindo ao site Silper</h1>
+<br>
+<style>
+    *{ text-align:left ;
+        color:black;
+        background-color: aliceblue;
+    }
+</style>
+<ul>
+<li><a href="formaçoes.html" target="_blank">Formações Académicas</a></li>
+    <br>
+<li><a href="sobremim.html" target="_blank">Sobre Mim</a></li>
+    <br>
+<li><a href="uninter.html" target="_blank">Uninter</a></li>
+<br>
+<li><a href="hobbies.html" target="_blank">Hobbies</a> </li>
+</ul>
+<br>
+<h4 style="text-align: center; color: darkred;">São leopoldo-Rio grande do Sul, Outubro de 2023</h4>
+</body>
+</html>
